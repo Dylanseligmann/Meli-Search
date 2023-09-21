@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/eli-Search/static/css/main.16f6165f.css",
+    "main.js": "/eli-Search/static/js/main.2689d8b2.js",
+    "static/media/logo.svg": "/eli-Search/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/eli-Search/index.html",
+    "main.16f6165f.css.map": "/eli-Search/static/css/main.16f6165f.css.map",
+    "main.2689d8b2.js.map": "/eli-Search/static/js/main.2689d8b2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.16f6165f.css",
+    "static/js/main.2689d8b2.js"
+  ]
+}
